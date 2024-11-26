@@ -7,8 +7,7 @@ public class Main {
         //criar instância significa que a classe Dados está 'apta' a ser
         //utilizada na classe Main
         Dados dados = new Dados();
-
-        //chamar o método
+        //chamar o método da classe Dados
         dados.exibirDados();
 
 
