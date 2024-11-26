@@ -1,7 +1,6 @@
 //aqui vai a importação do package
 import parteum.Dados;
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
         //criando uma instância da classe Dados na Main
