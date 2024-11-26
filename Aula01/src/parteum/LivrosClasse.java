@@ -16,7 +16,6 @@ public class LivrosClasse {
         this.anoPubicacao = anoPubicacao;
     }
 }
-
 class ArrayDeObjetos {
     public static void main(String[] args) {
         LivrosClasse[] estante = new LivrosClasse[3];
