@@ -1,8 +1,7 @@
-package Task01;
+package parteum.aula01.Task01;
 
-public class Ex3 {
+public class Ex1 {
     public static void main(String[] args) {
 
     }
-
 }

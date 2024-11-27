@@ -1,6 +1,6 @@
 //Array de Objetos
 
-package parteum;
+package parteum.aula01;
 
 public class LivrosClasse {
     //atributos

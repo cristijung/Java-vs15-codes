@@ -1,5 +1,5 @@
 //aqui vai a importação do package
-import parteum.Dados;
+import parteum.aula01.Dados;
 
 public class Main {
     public static void main(String[] args) {
