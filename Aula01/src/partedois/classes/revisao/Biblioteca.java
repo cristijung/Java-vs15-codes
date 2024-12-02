@@ -39,7 +39,7 @@ public class Biblioteca {
             }
             System.out.println("Livro não encontrado");
     }
-    //método para editar o livro
+    //método para editar o livros
     public void editarLivro(String isbn, Livro novoLivro)  {
             for (int i = 0; i < livros.size(); i++) {
                 if (livros.get(i).getIsbn().equals(isbn)) {
