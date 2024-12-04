@@ -1,0 +1,5 @@
+Informações ....
+Linha 1: Este é um arquivo de dados de exemplo.
+Linha 2: Estamos lendo este arquivo em um programa Java
+Linha 3: Estamos usando o try-catch para verificar exceções
+Linha 4: Tchau!
