@@ -1,4 +1,4 @@
-package partetres.generics;
+package partetres.generics.ex1;
 
 
 public class Util {

@@ -1,4 +1,4 @@
-package partetres.generics;
+package partetres.generics.ex1;
 
 public class Caixa<T> {
     private T conteudo;
